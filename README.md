@@ -12,7 +12,7 @@ This course is part theory and part practical. For the practical exercise, parti
 
 
 ## Prerequisites/knowledge:
-Basic working knowledge of python and Jupyter Notebook.
+Basic working knowledge of python prgramming language and Jupyter Notebook platform.
 
 ## Will I be using any particular software?
 Jupyter and Python
