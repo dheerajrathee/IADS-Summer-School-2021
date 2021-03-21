@@ -1,6 +1,6 @@
 # IADS-SummerSchool-2021
 
-This repository is created for [Institute of Analytics and Data Science Summer School 2021](https://www.iadssummerschool.com/).
+This repository is created for my course to be delivered during [Institute of Analytics and Data Science Summer School 2021](https://www.iadssummerschool.com/).
 
 ## Course Abstract:
 Tree-based models e.g. Decision trees are supervised learning models used for problems involving classification and regression. These models offer a high level of flexibility that leads to an advantage towards capturing the complex non-linear relationships, however, makes these models more prone to memorizing the noise present in data. By aggregating the predictions of several decision trees that are randomly trained, ensemble methods take advantage of the flexibility feature while reducing their tendency to memorize noise. In this course, participants will learn how to work with tree-based models to solve data science problems in Python.
